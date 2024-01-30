@@ -1,0 +1,1 @@
+cmd_/home/book/Desktop/Model/for_test/new_mouse_drive.ko := arm-buildroot-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/book/Desktop/Model/for_test/new_mouse_drive.ko /home/book/Desktop/Model/for_test/new_mouse_drive.o /home/book/Desktop/Model/for_test/new_mouse_drive.mod.o;  true
